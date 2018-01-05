@@ -1,3 +1,2 @@
 # hello-world
-test project
-part2
+Setting hello world
